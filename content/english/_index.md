@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  image: "/images/headshot.png"
+  title: "The homepage of Brandon Palas"
+  content: "I'm Brandon Palas, and this is a clearinghouse for all my art, comics, illustration, and more"
   button:
-    enable: true
+    enable: False
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 
@@ -47,7 +47,7 @@ features:
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "shitstick"
+      link: "fuck your momma.com"
 ---
